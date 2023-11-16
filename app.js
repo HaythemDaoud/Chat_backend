@@ -1,10 +1,4 @@
-/**
- * @author Joyce Hong
- * @email soja0524@gmail.com
- * @create date 2019-09-02 20:51:10
- * @modify date 2019-09-02 20:51:10
- * @desc socket.io server !
- */
+
 
 const express = require('express');
 const bodyParser = require('body-parser');
